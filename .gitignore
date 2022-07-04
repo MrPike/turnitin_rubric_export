@@ -1,4 +1,6 @@
 .idea
+*.rbc
+test.html
 
 # General
 .DS_Store
@@ -27,3 +29,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+/poetry.lock
+/example_rubrics/
